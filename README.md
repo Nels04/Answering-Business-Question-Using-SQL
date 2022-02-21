@@ -13,3 +13,5 @@ Here's a list of tables in the database:
 * artist
 * album
 * genre
+
+Here's the link to project https://github.com/Nels04/Answering-Business-Question-Using-SQL/blob/main/Answering%20Business%20Question%20Using%20SQL.ipynb
